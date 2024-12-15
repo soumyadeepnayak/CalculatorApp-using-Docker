@@ -29,7 +29,7 @@ Ensure you have the following installed:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/calculator-website.git
+git clone https://github.com/soumyadeepnayak/CalculatorApp-using-Docker.git
 cd calculator-website
 ```
 
