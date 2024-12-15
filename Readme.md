@@ -1,4 +1,4 @@
-# Calculator Website with Docker Support
+# Calculator Website with Docker 
 
 This project is a simple calculator web application built using **HTML**, **CSS**, and **JavaScript**. The application is containerized using Docker, making it easy to deploy and run across different environments.
 
