@@ -53,6 +53,8 @@ Open your web browser and go to:
 http://localhost:8080
 ```
 
+This website is only available on local system.One cannot access the website globally. 
+
 ## Project Structure
 
 ```
@@ -85,5 +87,6 @@ EXPOSE 80
 - [NGINX](https://www.nginx.com/) for lightweight web server
 
 ---
+
 
 
