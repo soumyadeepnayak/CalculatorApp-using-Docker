@@ -30,7 +30,7 @@ Ensure you have the following installed:
 
 ```bash
 git clone https://github.com/soumyadeepnayak/CalculatorApp-using-Docker.git
-cd calculator-website
+cd CalculatorApp-using-Docker
 ```
 
 #### 2. Build the Docker Image
